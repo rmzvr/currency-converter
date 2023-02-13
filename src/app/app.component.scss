@@ -1,0 +1,18 @@
+.main {
+	min-height: calc(100vh - 64px);
+	display: grid;
+	place-content: center;
+}
+
+.card {
+	scale: 1.5;
+}
+
+.content {
+	display: flex;
+	gap: 1rem;
+}
+
+.button-reverse {
+	margin-top: 4px;
+}
